@@ -19,13 +19,13 @@
 
 ## ⚡ Tech Stack
 ### **Languages**
-`JavaScript` • `Python` • `HTML` • `CSS`
+`JavaScript` • `Python` • `HTML` • `CSS`•`Java`•`C++`
 
 ### **Web Development**
 `Node.js` • `Flask` • `REST APIs` • `Git & GitHub`  
 
 ### **Cybersecurity & Networking**
-`OSINT` • `Network Fundamentals` • `Linux Basics` • `Security Concepts`
+`OSINT` • `Network Fundamentals(CCNA)` • `Linux Basics` • `Security Concepts`
 
 ### **Tools**
 `VS Code` • `Postman` • `Nmap` • `Wireshark` • `Git`
@@ -40,7 +40,7 @@ Interactive, web-based platform that makes NASA’s gigapixel imagery accessible
 https://github.com/Mohammmedsoliman/Nasa_Project  
 
 🔗 **Live Demo:**  
-https://mohammmedsoliman.github.io/Space_proto/
+https://mohammmedsoliman.github.io/Nasa_Project/
 
 ---
 
@@ -72,7 +72,8 @@ My interests include:
 
 ## 📫 Connect With Me
 - GitHub: **github.com/Mohammmedsoliman**
-- (If you want, I can add LinkedIn / Email Section)
+- Linkedin: **www.linkedin.com/in/mohamed8soliman
+- Email: **mohamedsoliman1226@gmail.com
 
 ---
 
