@@ -14,9 +14,13 @@ A web-based platform that makes NASA’s massive, high‑resolution imagery acce
 - UI/UX
 - Cybersecurity Basics
 - Networking (CCNA Level)
+- Pesentaion skills (soft)
+- Communication skills (soft)
 
 ## 🚀 Notable Projects
-- **Galaxies Of Dreams (NASA Project 2025)** – Interactive space exploration platform  
+- **Galaxies Of Dreams (NASA Project 2025)** – Interactive space exploration platform
+- **Housaty (Real State website) -interactive real State web app
+- **Hotel Network design (Networkng) - Design network infrastructure for a 10 floors hotel
 - More projects coming soon…
 
 ## 🎯 Goals
@@ -26,3 +30,5 @@ A web-based platform that makes NASA’s massive, high‑resolution imagery acce
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/Mohammmedsoliman
+- Gmail: mohamedsoliman1226@gmail.com
+- Linkedin: https://www.linkedin.com/in/mohamed8soliman
